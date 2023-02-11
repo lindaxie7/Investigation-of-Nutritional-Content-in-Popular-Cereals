@@ -1,8 +1,4 @@
----
-title: "CSCI 5707 Cereal Data Analysis"
-author: "Eric Trempe"
-date: "2022-11-21"
-output: html_document
+
 ---
 
 ```{r setup, include=FALSE}
