@@ -1,1 +1,2 @@
-# Investigation-of-Nutritional-Content-in-Popular-Cereals
+# 5707project
+CSCI 5707 final project
