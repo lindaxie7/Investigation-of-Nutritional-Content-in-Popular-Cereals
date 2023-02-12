@@ -42,19 +42,13 @@ Intermediate data conversion - All data was converted into JSON format to prepar
 
 
 ## Data Analysis
-* Regression
 
-        Linear on rating
+* Linear regression on rating ;  Logistic regression on manufacturer; Text Analysis on Ingredients
 
-        Logistic on manufacturer
 
-* Text Analysis
-
-        Ingredients
   
-* Random Forests
+* Random Forests for Feature importance
 
-        Feature importance
 
 
 
