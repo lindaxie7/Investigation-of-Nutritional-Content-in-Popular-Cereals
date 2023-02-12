@@ -1,7 +1,4 @@
 # Investigation-of-Nutritional-Content-in-Popular-Cereals
-# Investigation-of-Nutritional-Content-in-Popular-Cereals
-
-
 
 ## Overview of Project
 The purpose of the project is to build a database to answer customer queries about breakfast food nutrition and information, use the nutritional data to answer cosumer questions, for example, consumers with special dietary restrictions like allergies or diabetes, or nutritional preferences like low sugar, low fat or low carb diets. 
