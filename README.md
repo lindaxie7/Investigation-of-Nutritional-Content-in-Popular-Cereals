@@ -48,7 +48,7 @@ Intermediate data conversion - All data was converted into JSON format to prepar
 
   
 * Random Forests for Feature importance
-[Python Code](https://github.com/lindaxie7/PyBer-analysis/blob/main/PyBer_Challenge_starter_code.ipynb)
+[Python Code](https://github.com/lindaxie7/Investigation-of-Nutritional-Content-in-Popular-Cereals/blob/main/random_forest.ipynb)
 
 
 
