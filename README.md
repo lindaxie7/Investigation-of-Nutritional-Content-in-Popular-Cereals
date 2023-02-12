@@ -31,6 +31,7 @@ Intermediate data conversion - All data was converted into JSON format to prepar
 
 
 ## ER Diagram
+![Picture1](https://user-images.githubusercontent.com/38533045/218321476-e29a3754-a91b-4aa9-8243-602bb37a6d1d.png)
 
 
 
