@@ -2,7 +2,7 @@
 
 ## Overview of Project
 The purpose of the project is to build a database to answer consumer queries about breakfast food nutrition and information, use the nutritional data to answer cosumer questions, for example, consumers with special dietary restrictions like allergies or diabetes, or nutritional preferences like low sugar, low fat or low carb diets. 
-We also analyzed which manutactures put the most sugar in their cereals, and to predict a cereal's health score based on nutritional content, for example, do high0-sugar cereals predict a lower health score? For future deployment, we could develop a predictive model to predict how nutrient content coorespond to a health score of cereal options.
+We also analyzed which manutactures put the most sugar in their cereals, and to predict a cereal's health score based on nutritional content, for example, do high-sugar cereals predict a lower health score? For future deployment, we could develop a predictive model to predict how nutrient content coorespond to a health score of cereal options.
 
 
 
