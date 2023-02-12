@@ -46,12 +46,15 @@ Intermediate data conversion - All data was converted into JSON format to prepar
 * Linear regression on rating ;  Logistic regression on manufacturer; Text Analysis on Ingredients
 [R Code](https://github.com/lindaxie7/Investigation-of-Nutritional-Content-in-Popular-Cereals/blob/main/Cereal%20Data%20Analysis.Rmd)
 
+![Screenshot 2023-02-12 100844](https://user-images.githubusercontent.com/38533045/218322741-9503d0a6-ebeb-4a50-be2b-6481332e906e.png)
+
+![Screenshot 2023-02-12 100906](https://user-images.githubusercontent.com/38533045/218322742-08011385-1901-4bc0-b6a8-a24e89b608f6.png)
   
 * Random Forests for Feature importance
 [Python Code](https://github.com/lindaxie7/Investigation-of-Nutritional-Content-in-Popular-Cereals/blob/main/random_forest.ipynb)
 
 
-
+![Screenshot 2023-02-12 100940](https://user-images.githubusercontent.com/38533045/218322743-1f2b075d-bbc9-48f1-af6c-ec0d6eeb1842.png)
 
 
 
