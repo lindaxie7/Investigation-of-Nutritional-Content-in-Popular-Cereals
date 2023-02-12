@@ -44,11 +44,11 @@ Intermediate data conversion - All data was converted into JSON format to prepar
 ## Data Analysis
 
 * Linear regression on rating ;  Logistic regression on manufacturer; Text Analysis on Ingredients
-
+[R Code](https://github.com/lindaxie7/PyBer-analysis/blob/main/PyBer_Challenge_starter_code.ipynb)
 
   
 * Random Forests for Feature importance
-
+[Python Code](https://github.com/lindaxie7/PyBer-analysis/blob/main/PyBer_Challenge_starter_code.ipynb)
 
 
 
